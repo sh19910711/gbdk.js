@@ -1,0 +1,41 @@
+/abs.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/atoi.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/atol.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/digits.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/isalpha.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/isdigit.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/islower.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/isspace.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/isupper.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/itoa.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/labs.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/ltoa.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/malloc-block.c/1.1/Mon Oct 18 01:10:22 1999//
+/print.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/printf.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/println.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/printn.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/puts.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/reverse.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/scanf.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/sprint.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/sprintf.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/sprintln.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/sprintn.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strcat.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strcmp.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strcpy.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strlen.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strncat.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strncmp.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/strncpy.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/time.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/tolower.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+/toupper.c/1.1.1.1/Sun Sep  5 00:49:24 1999//
+D/platform////
+D/processor////
+/malloc-list.c/0/dummy timestamp//
+/malloc.c/-1.1.1.1/dummy timestamp//
+/free.c/-1.1.1.1/dummy timestamp//
+/calloc.c/-1.1.1.1/dummy timestamp//
+/realloc.c/-1.1.1.1/dummy timestamp//
